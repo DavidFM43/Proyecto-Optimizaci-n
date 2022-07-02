@@ -3,6 +3,8 @@
 
 Traffic agents dispatch optimization model for minimizing the total response time of traffic incidents.
 
+For visualizing the maps without cloning the repository and running it locally, please download the `traffic.html` file and open it with the browser of your choice.
+
 [Link del video de presentación](https://www.youtube.com/watch?v=m7HS02AdZeQ&feature=youtu.be&ab_channel=JuanPabloGuti%C3%A9rrez)
 
 ![imagen](https://user-images.githubusercontent.com/64153233/173868305-5054d322-13c1-41b2-ba67-f27c6b497995.png)
